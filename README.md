@@ -11,6 +11,6 @@ Here, I will try to use my knowledge to create projects that fit things in the w
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerrios&hide=contribs,prs&show_icons=true)                
 
-## My most frequently used languages are:
+## Most frequently used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrios&layout=compact)](https://github.com/abnerrios)
 
