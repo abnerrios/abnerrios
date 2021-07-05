@@ -9,7 +9,7 @@ Here, I will try to use my knowledge to create projects that fit things in the w
 
 # My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerrios&hide=contribs,prs&show_icons=true)                
+![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerrios&hide=contribs,prs&show_icons=true)                
 
 ## Most frequently used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrios&layout=compact)](https://github.com/abnerrios)
